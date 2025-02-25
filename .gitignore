@@ -49,3 +49,6 @@ Pods
 xcuserdata
 
 compute-engine
+
+venv
+cnn_cifar/data
